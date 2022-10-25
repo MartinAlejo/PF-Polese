@@ -3,3 +3,13 @@ $colors: (
   "igIcon" : #833AB4,
   "fbIcon" : #4267B2
 );
+
+main {
+  background-color: #F4F4F4;
+}
+
+.dropdown-item {
+  &:active{
+    background-color: rgb(43, 41, 41) !important;
+  }
+}

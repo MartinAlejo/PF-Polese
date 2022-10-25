@@ -26,6 +26,12 @@
 .shadowBox:hover {
   box-shadow: 1px 1px 10px #000; }
 
+main {
+  background-color: #F4F4F4; }
+
+.dropdown-item:active {
+  background-color: #2b2929 !important; }
+
 footer {
   height: 10vh; }
 
