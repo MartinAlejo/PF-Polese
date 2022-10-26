@@ -95,8 +95,14 @@ footer {
   #imgContacto {
     max-height: 100vh; }
   footer {
-    height: 8vh; }
+    height: 7vh; }
   #indexTitle {
     font-size: 4rem; }
   #indexText {
-    font-size: 1.5rem; } }
+    font-size: 1.5rem; }
+  #indexBtn {
+    font-size: 1.5rem; }
+  h1 {
+    font-size: 3.5rem; }
+  p {
+    font-size: 1.3rem; } }
