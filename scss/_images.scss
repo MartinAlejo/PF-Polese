@@ -7,3 +7,7 @@
 .carousel img {
   @include imgCoverWithHeight(50vh)
 }
+
+.modal img {
+  @include imgCoverWithHeight(80vh)
+}
