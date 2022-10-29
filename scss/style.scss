@@ -29,6 +29,10 @@
     @include imgCoverWithMaxHeight(140vh)
   }
 
+  .modal img {
+    @include imgCoverWithHeight(80vh)
+  }
+
 }
 
 @media (min-width: 1200px) {
