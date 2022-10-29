@@ -34,6 +34,12 @@
 body {
   background-color: #F4F4F4; }
 
+#indexBtn {
+  background-color: #47525d; }
+
+#nosotrosBtn {
+  background-color: #47525d; }
+
 .dropdown-item:active {
   background-color: #2b2929 !important; }
 
