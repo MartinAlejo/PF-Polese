@@ -26,7 +26,7 @@
   }
 
   #imgContacto {
-    @include imgCoverWithMaxHeight(120vh)
+    @include imgCoverWithMaxHeight(140vh)
   }
 
 }
@@ -54,7 +54,7 @@
   }
 
   #imgContacto {
-    max-height: 100vh;
+    @include imgCoverWithMaxHeight(100vh)
   }
 
   footer {
